@@ -1,7 +1,7 @@
 # Exo-79-Les-Strings-2
 Pour ces exos, vous utiliserez toujours la même variable !
 
-Créez une variable contenant le texte: Elle est belle ma pomme !
+Créez une variable contenant le texte : Elle est belle ma pomme !
 
 ## Exo 1
     Récupérez le paragraphe #index-pomme et donnez lui comme valeur, la valeur de la position du mot 'pomme'
